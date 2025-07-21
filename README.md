@@ -32,8 +32,8 @@ To set up the project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iedc-website.git
-   cd iedc-website
+   git clone https://github.com/shayen71421/website_iedc_sahrdaya.git
+   cd website_iedc_sahrdaya
    ```
 
 2. Install dependencies:
